@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #D5E1EF;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    color: #1F314F;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+section {
+    width: 320px;
+    height: 497px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.text {
+    margin: 45px 15px 15px 15px;
+}
+
+img {
+    margin-top: 15px;
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 15px;
+}
