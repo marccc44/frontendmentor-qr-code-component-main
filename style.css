@@ -24,7 +24,7 @@ section {
 }
 
 .text {
-    margin: 45px 15px 15px 15px;
+    margin: 32px 15px 15px 15px;
 }
 
 img {
@@ -36,6 +36,7 @@ img {
 
 h1 {
     font-size: 22px;
+    padding-bottom: 20px;
 }
 
 p {
