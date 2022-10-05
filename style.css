@@ -23,10 +23,6 @@ section {
     border-radius: 10px;
 }
 
-.text {
-    margin: 32px 15px 15px 15px;
-}
-
 img {
     margin-top: 15px;
     width: 288px;
@@ -35,10 +31,12 @@ img {
 }
 
 h1 {
-    font-size: 22px;
+    font-size: 1.375rem;
     padding-bottom: 20px;
+    padding: 25px 15px 0 15px;
 }
 
 p {
-    font-size: 15px;
+    font-size: 0.938rem;
+    padding: 15px 15px 0 15px;
 }
